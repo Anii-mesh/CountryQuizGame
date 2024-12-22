@@ -1,8 +1,8 @@
-**Country Quiz Game**
+# **Country Quiz Game**
 
 A fun and educational Android app where users identify country flags through an interactive quiz.
 
-**Features**
+## **Features**
 
 1)Multiple-choice quiz format with dynamically generated questions.
 
@@ -10,7 +10,7 @@ A fun and educational Android app where users identify country flags through an 
 
 3)Engaging user interface for a seamless and enjoyable quiz experience.
 
-**How It Works**
+## **How It Works**
 
 A country flag is displayed on the screen.
 The user selects the correct country from four provided options.
@@ -19,7 +19,7 @@ Correct and incorrect answers.
 A graphical representation of performance using a bar chart.
 Users can restart the quiz to try again and enhance their knowledge.
 
-**Technologies Used**
+## **Technologies Used**
 
 **Language:** Kotlin
 
@@ -29,16 +29,23 @@ Users can restart the quiz to try again and enhance their knowledge.
 
 **Activity & Intent Handling:** Android Intent system
 
-**Screenshots**
-![Quiz Page](app\images\Screenshot2)
-![Result Page](app\images\Screenshot1)
+## **Screenshots**
 
-**Author**
+<p align="center">
+  <img src="app/images/Screenshot2.jpg" alt="Quiz Page" width="300px">
+</p>
+
+<p align="center">
+  <img src="app/images/Screenshot1.jpg" alt="Result Page" width="300px">
+</p>
+
+## **Author**
 
 Animesh Pratap Singh
 
 An enthusiastic Android developer with a passion for creating interactive and educational applications. Skilled in Kotlin, 
 Android Studio, and UI design. This project reflects my commitment to delivering high-quality and engaging user experiences.
+
 
 
 
